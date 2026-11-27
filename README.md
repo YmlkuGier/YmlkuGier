@@ -1,16 +1,16 @@
 # Hi, there 👋
 
-## About Me
+## 🌸 About Me
 
-- Technical school student
+- 🎓 Technical school student
 
-- Currently studying
+- 📚 Currently studying
 
-- Interest: Anime | Kancolle
+- ⚓ Interest: Anime | Kancolle
 
-- Good at Java backend and also know some frontend development
+- 💻 Good at Java backend and also know some frontend development
 
-## Technologies & Tools
+## 🛠️ Technologies & Tools
 
 [![OS | Arch Linux](https://img.shields.io/badge/OS-Arch%20Linux-e46262?logo=archlinux&logoColor=fff)](https://archlinux.org/) [![Language | Java](https://img.shields.io/badge/Language-Java-e46262?logo=openjdk&logoColor=fff)](https://www.java.com/) [![Language | Python](https://img.shields.io/badge/Language-Python-e46262?logo=python&logoColor=fff)](https://www.python.org/) [![Language | JavaScript](https://img.shields.io/badge/Language-JavaScript-e46262?logo=javascript&logoColor=fff)](https://developer.mozilla.org/en-US/docs/Web/JavaScript) [![Language | TypeScript](https://img.shields.io/badge/Language-TypeScript-e46262?logo=typescript&logoColor=fff)](https://www.typescriptlang.org/) [![Framework | Vue 3](https://img.shields.io/badge/Framework-Vue%203-e46262?logo=vuedotjs&logoColor=fff)](https://vuejs.org/) [![Framework | Spring Boot](https://img.shields.io/badge/Framework-Spring%20Boot-e46262?logo=springboot&logoColor=fff)](https://spring.io/projects/spring-boot) [![Framework | Spring Cloud](https://img.shields.io/badge/Framework-Spring%20Cloud-e46262?logo=spring&logoColor=fff)](https://spring.io/projects/spring-cloud) [![Database | MySQL](https://img.shields.io/badge/Database-MySQL-e46262?logo=mysql&logoColor=fff)](https://www.mysql.com/) [![Database | Redis](https://img.shields.io/badge/Database-Redis-e46262?logo=redis&logoColor=fff)](https://redis.io/) [![Tool | Docker](https://img.shields.io/badge/Tool-Docker-e46262?logo=docker&logoColor=fff)](https://www.docker.com/) [![Shell | Fish](https://img.shields.io/badge/Shell-Fish-e46262?logo=fishshell&logoColor=fff)](https://fishshell.com/) [![IDE | IntelliJ IDEA](https://img.shields.io/badge/IDE-IntelliJ%20IDEA-e46262?logo=intellijidea&logoColor=fff)](https://www.jetbrains.com/idea/)
 
