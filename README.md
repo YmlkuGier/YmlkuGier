@@ -17,5 +17,3 @@
 [![GitHub Stats](https://github-stats-extended.vercel.app/api?username=YmlkuGier&show_icons=true&theme=onedark)](https://github-stats-extended.vercel.app/api?username=YmlkuGier&show_icons=true&theme=onedark)
 
 You can find me on <a href="https://x.com/Ymlku_Gier"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/twitter/twitter-original.svg" alt="Twitter" title="Twitter" width="20" height="20" /></a>, or via <a href="mailto:a692256293@gmail.com"><img src="assets/email.svg" alt="Email" title="Email" width="20" height="20" /></a>.
-
-(ᗜˬᗜ)
