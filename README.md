@@ -2,6 +2,8 @@
 
 ## 🌸 About Me
 
+<img align="right" src="assets/img/47CDD2EC33248D604771D41DEB969EF3.jpg" alt="About Me illustration" width="180" />
+
 - 🎓 Technical school student
 
 - 📚 Currently studying
@@ -9,6 +11,8 @@
 - ⚓ Interest: Anime | Kancolle
 
 - 💻 Good at Java backend and also know some frontend development
+
+<br clear="right" />
 
 ## 🛠️ Technologies & Tools
 
